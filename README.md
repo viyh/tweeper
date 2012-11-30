@@ -3,6 +3,11 @@ tweeper
 
 A simple script to automatically follow those who follow, and unfollow those who unfollow a Twitter account.
 
+Dependencies
+------------
+
+- tweepy (tested with version 1.8)
+
 Configuration
 -------------
 
