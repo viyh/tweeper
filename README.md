@@ -13,7 +13,7 @@ Usage
 
 Once configured, just run the script:
 
-`python tweepy.py`
+`python tweeper.py`
 
 Links
 -----
